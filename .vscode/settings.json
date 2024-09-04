@@ -1,0 +1,5 @@
+{
+    "intelephense.environment.phpVersion": "8.1.1",
+    "intelephense.telemetry.enabled": false,
+    "php.suggest.basic": false
+}
